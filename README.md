@@ -2,13 +2,13 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Xin chào, mình là <b>Lê Văn Duy</b>!</h1>
+  <h1>Xin chào, mình là <b>Lê Văn Duy</b></h1>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Data+Analyst+%7C+FinTech+Student+%7C+MBBank+Intern;+Banking+%26+Finance+%7C+Python+%7C+SQL+%7C+Excel;+Building+Data+Solutions+for+Real+Business+Impact!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Data+Analyst+%7C+FinTech+Student;+Banking+%26+Finance+%7C+Python+%7C+SQL+%7C+Excel)](https://git.io/typing-svg)
 
 </div>
 
@@ -144,7 +144,7 @@ me.say_hi()
 [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://levanduy26.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeVanDuy26/Movie-Ticket-Company-Customer-Campaign-Data-Analysis)
 
-`Python` `Data Analysis` `Business Intelligence` `426K Records`
+`Python` `Data Analysis` `Business Intelligence`
 
 </td>
 <td align="center" width="50%">
@@ -287,7 +287,4 @@ me.say_hi()
 <h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+analyze+data!+🤝;Always+learning%2C+always+growing+🚀;Vietnam+FinTech+Community+💪">
 </h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨ Keep Learning, Keep Analyzing! ✨&fontSize=24&fontAlignY=70"/>
-
 </div>
